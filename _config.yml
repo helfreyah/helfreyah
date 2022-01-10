@@ -3,16 +3,16 @@
 #
 
 # Name of your site (displayed in the header)
-name: Reverie
+name: helfreyah
 
 # Name of the author
-author: Amit Merchant
+author: helfreyah
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: Helf Emergency. We have to work and rise. FEAR has two meanings "Face everything and rise or forget everything and run". Choice is yours
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/wall.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: amit.d.merchant@gmail.com
+  email: 
   facebook:
   flickr:
   github: helfreyah/helfreyah.github.io 
@@ -29,7 +29,7 @@ footer-links:
   linkedin: 
   pinterest:
   rss: rss
-  twitter: amit_merchant
+  twitter: thereyahc
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
