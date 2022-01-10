@@ -5,11 +5,8 @@ permalink: /about/
 ---
 
 Note: Helf Emergency
-
 We are rising.
-
 FEAR has two meanings "Face everything and rise or forget everything and run".
-
 Choice is yours
 
 ## Blog
