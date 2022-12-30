@@ -6,7 +6,7 @@ categories: [Rust,Code]
 
 Hi all, nowadays I'm writing Rust to learn and improve my coding skills. In this post, you will see C2 server and agent basically.
 You can pm me on [twitter](https://twitter.com/batwareman) for bugs and anything else.
-Maybe a few weeks later i can update code, adding new things to improve agent and server. You can list dead, and alive bots and interact with them and also kill bots.
+Maybe a few weeks later i can update code, adding new things to improve agent and server. You can list dead, and alive bots and interact with them and kill bots.
 Agent runs commands on Powershell. 
 
 
