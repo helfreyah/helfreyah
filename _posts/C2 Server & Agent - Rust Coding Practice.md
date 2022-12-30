@@ -6,8 +6,8 @@ categories: [Rust,Code]
 
 Hi all, nowadays I'm writing Rust to learn and improve my coding skills. In this post, you will see C2 server and agent basically.
 You can pm me on [twitter](https://twitter.com/batwareman) for bugs and anything else.
-Maybe a few weeks later i can update code, adding new things to improve agent and server. You can listing dead, alive bots and interact them.
-Agent runs commands on powershell. 
+Maybe a few weeks later i can update code, adding new things to improve agent and server. You can list dead, and alive bots and interact with them and also kill bots.
+Agent runs commands on Powershell. 
 
 
 server.rs
@@ -193,5 +193,9 @@ async fn try_run(addr: impl ToSocketAddrs) -> Result<(), Box<dyn Error + Send + 
 }
 
 ```
+
+![](/images/1.PNG)
+![](/images/2.PNG)
+![](/images/Screenshot-4.png)
 
 
