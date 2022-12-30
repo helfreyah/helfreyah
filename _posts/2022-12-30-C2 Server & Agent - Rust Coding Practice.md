@@ -10,6 +10,8 @@ Maybe a few weeks later i can update code, adding new things to improve agent an
 Agent runs commands on Powershell. 
 
 
+https://github.com/thereyahc/Helfrix_C2
+
 server.rs
 ```rust
 use std::collections::HashMap;
@@ -195,7 +197,11 @@ async fn try_run(addr: impl ToSocketAddrs) -> Result<(), Box<dyn Error + Send + 
 ```
 
 ![](/images/1.PNG)
+
+
 ![](/images/2.PNG)
+
+
 ![](/images/Screenshot-4.png)
 
 
