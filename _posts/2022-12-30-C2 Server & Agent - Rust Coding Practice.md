@@ -10,7 +10,7 @@ Maybe a few weeks later i can update code, adding new things to improve agent an
 Agent runs commands on Powershell. 
 
 
-https://github.com/thereyahc/Helfrix_C2
+Project : [Github](https://github.com/thereyahc/Helfrix_C2)
 
 server.rs
 ```rust
