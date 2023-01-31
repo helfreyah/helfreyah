@@ -3,6 +3,9 @@ layout: post
 title:  Illegal Bet Organizations & Fraud.md
 categories: [Fraud]
 ---
+
+![](/images/m0.jpg)
+
 Hi all,
 
 Nowadays, I'm researching illegal bet organizations. How is working illegal bet platforms? 
@@ -12,8 +15,6 @@ Which are they using deposit-money technologies?
 
 You will find a lot of detail about how people send money to their accounts and how is working money transfer. Also, they have a lot of new deposit methods. Furthermore, how is working third-party financial systems like Paypal, Astropay, Ucash and etc?
 
-
-![](/images/m0.jpg)
 
 Deep deep down 
 Gambling Addiction
