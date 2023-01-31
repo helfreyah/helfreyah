@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Illegal Bet Organizations & Fraud.md
+title:  Illegal Bet Organizations & Fraud
 categories: [Fraud]
 ---
 
