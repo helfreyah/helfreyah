@@ -61,7 +61,7 @@ Senaryolardan bağımsız...
 
 Arkadaşlar gizlilik ve güvenlik kelimeleri giderek eziliyor bunun sebebi her şeyin ortada olması.
 Amacımız eğer peşimizde birisi var ise yolu uzatabildiğimiz kadar uzatmak. 
-Farklı kullanıcı adları, farklı profil fotoğrafları, CV public edilmemesi, Linkedin ve Instagram bio kısmında yer alan bilgilerimize kadar amacımız yolu uzatabilmek. Ancak böyle gizlenebiliriz.
+Farklı kullanıcı adları, farklı profil fotoğrafları, CV public edilmemesi, Linkedin ve Instagram bio kısmında yer alan bilgilerimize kadar amacımız yolu uzatabilmek. 
 
 
 Siber suç işleyen kişiler veya topluluklar, fiziksel olarak suç işleyen şahıslarla aynı motivasyonlara sahipler.
